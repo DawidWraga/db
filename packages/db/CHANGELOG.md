@@ -1,5 +1,11 @@
 # @tanstack/db
 
+## 0.0.13
+
+### Patch Changes
+
+- Refactored the way we compute change events over the synced state and the optimistic changes. This fixes a couple of issues where the change events were not being emitted correctly. ([#206](https://github.com/TanStack/db/pull/206))
+
 ## 0.0.12
 
 ### Patch Changes

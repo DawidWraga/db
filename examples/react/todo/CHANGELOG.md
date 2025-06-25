@@ -1,5 +1,13 @@
 # examples/react/todo
 
+## 0.0.18
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @tanstack/db-collections@0.0.16
+  - @tanstack/react-db@0.0.13
+
 ## 0.0.17
 
 ### Patch Changes
